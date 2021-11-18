@@ -1,3 +1,6 @@
+kPrototypeLabCost = 25
+kJetpackTechResearchCost = 35
+
 -- Module pricing
 kExoWelderCost = 20
 kRailgunCost = 30
@@ -75,7 +78,7 @@ Railgun.kRailgunChargeTime = 1.4
 Railgun.kRailgunDamage = 30
 */
 
-kRailgunWeight = 0.1
+kRailgunWeight = 0.08
 kRailgunDamage = 35
 kRailgunChargeDamage = 175
 
